@@ -3,7 +3,7 @@ This is the chatapp for one to one or groupchat using react and nodejs
 
 ##Screenshots
 
-![ScreenImage Image 1](./demo/screnshots1.PNG=250x250)
+![ScreenImage Image 1](./demo/screnshots1.PNG | width=100)
 
 
 
