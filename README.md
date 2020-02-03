@@ -8,7 +8,7 @@ This is the chatapp for one to one or groupchat using react and nodejs
 
 
 
-##For client side
+<h2>For client side</h2>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -81,7 +81,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-##For Server Side
+<h2>For Server Side</h2>
 
 cd server</br>
 npm install -save</br>
