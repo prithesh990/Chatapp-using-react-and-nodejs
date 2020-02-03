@@ -1,0 +1,86 @@
+html,
+body {
+  font-family: "Roboto", sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+#root {
+  height: 100vh;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.joinInnerOuterContainer {
+  padding: 1em;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  align-items: center;
+  width: 25%;
+  background: #b2cfecb8;
+  margin: 1em;
+  border-radius: 15px;
+}
+
+.joinOuterContainer {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  height: 100vh;
+  align-items: center;
+  background: #7f7fd5;
+  background: -webkit-linear-gradient(to right, #91eae4, #86a8e7, #7f7fd5);
+  background: linear-gradient(to right, #91eae4, #86a8e7, #7f7fd5);
+}
+
+.joinInnerContainer {
+  width: 90%;
+}
+
+.joinInput {
+  border: none;
+  background: #eeeeee85;
+  padding: 16px 20px;
+  color: #2979ffc7;
+  width: 100%;
+}
+
+.heading {
+  color: #2979ffc7;
+  font-size: 2em;
+  /* font-family: sans-serif; */
+  padding-bottom: 10px;
+}
+
+.button {
+  color: #eee !important;
+  text-transform: uppercase;
+  text-decoration: none;
+  background: #2979ffad;
+  padding: 20px;
+  border-radius: 5px;
+  display: inline-block;
+  border: none;
+  width: 100%;
+}
+
+.mt-20 {
+  margin-top: 20px;
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .joinOuterContainer {
+    height: 100%;
+  }
+
+  .joinInnerOuterContainer {
+    width: 90%;
+  }
+}
+
+button:focus {
+  outline: 0;
+}

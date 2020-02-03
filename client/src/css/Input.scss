@@ -1,0 +1,91 @@
+.form {
+  display: flex;
+  border-top: 2px solid #d3d3d3;
+}
+
+.input {
+  border: none;
+  border-radius: 0;
+  padding: 5%;
+  width: 80%;
+  font-size: 1.2em;
+  background-color: #eee;
+}
+
+.inputFile {
+  display: none;
+}
+.image_style {
+  height: 50px;
+}
+input:focus,
+textarea:focus,
+select:focus {
+  outline: none;
+}
+
+.form-control {
+  background: #c9d8dedb;
+}
+
+.type_msg {
+  // background-color: #c9d8dedb !important;
+  border: 0 !important;
+  color: #212529 !important;
+  height: 60px !important;
+  overflow-y: auto;
+  line-height: 39px !important;
+  background: #c9d8dedb;
+}
+.type_msg:focus {
+  box-shadow: none !important;
+  outline: 0px !important;
+}
+
+input[type="text"] {
+  box-sizing: border-box;
+  padding-left: 10px;
+  background-color: #cfdce1;
+  background-size: 50px 50px;
+  background-repeat: no-repeat;
+  background-position: 3% 53%;
+}
+
+input[type="text"]:focus {
+  background-color: #eee;
+  outline: none;
+}
+
+.bg {
+  background-image: none !important;
+}
+
+.attach_btn {
+  border-radius: 15px 0 0 15px !important;
+  background-color: #2979ff6b !important;
+  border: 0 !important;
+  color: white !important;
+  cursor: pointer;
+}
+.send_btn {
+  border-radius: 0 15px 15px 0 !important;
+  background-color: #2979ff6b !important;
+  border: 0 !important;
+  color: white !important;
+  cursor: pointer;
+}
+
+.background-light {
+  background-color: #2979ff6b !important;
+}
+
+.sendButton {
+  color: #fff !important;
+  text-transform: uppercase;
+  text-decoration: none;
+  background: #2979ff;
+  padding: 20px;
+  display: inline-block;
+  border: none;
+  width: 20%;
+}

@@ -1,0 +1,62 @@
+.infoBar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #2979ff6b;
+  /* background-color: rgba(72, 72, 72, 0); */
+  border-radius: 4px 4px 0 0;
+  height: 90px;
+  width: 100%;
+}
+
+.leftInnerContainer {
+  flex: 0.5;
+  display: flex;
+  align-items: center;
+  margin-left: 5%;
+  color: white;
+}
+
+.user_img {
+  height: 70px;
+  width: 70px;
+  border: 1.5px solid #f5f6fa;
+}
+
+.online_icon {
+  position: absolute;
+  height: 15px;
+  width: 15px;
+  border-radius: 50%;
+  bottom: 0.2em;
+  left: 4.2em;
+  border: 1.5px solid white;
+}
+
+.rightInnerContainer {
+  display: flex;
+  flex: 0.5;
+  justify-content: flex-end;
+  margin-right: 5%;
+}
+
+.onlineIcon {
+  margin-right: 5%;
+}
+
+.img_cont {
+  position: relative;
+  /* height: 70px;
+  width: 70px; */
+  padding: 0px 15px;
+}
+
+.user_info {
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 15px;
+}
+.user_info span {
+  font-size: 20px;
+  color: white;
+}
