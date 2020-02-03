@@ -4,11 +4,11 @@ This is the chatapp for one to one or groupchat using react and nodejs
 <b>Screenshots</b>
 
 <div style="display:flex;width:100%,flex-wrap:wrap">
-<img src="./demo/screnshots1.PNG" width="500" height="300">
-<img src="./demo/screenshot2.PNG" width="500" height="300">
-<img src="./demo/screenshot3.PNG" width="500" height="300">
-<img src="./demo/screenshot4.PNG" width="500" height="300">
-<img src="./demo/screenshot 5.PNG" width="500" height="300">
+<img src="./demo/screnshots1.PNG" width="400" height="300">
+<img src="./demo/screenshot2.PNG" width="400" height="300">
+<img src="./demo/screenshot3.PNG" width="400" height="300">
+<img src="./demo/screenshot4.PNG" width="400" height="300">
+<img src="./demo/screenshot 5.PNG" width="400" height="300">
   </div>
 
 
