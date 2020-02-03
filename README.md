@@ -76,8 +76,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ##For Server Side
 
-cd server
-npm install -save
+cd server</br>
+npm install -save</br>
 npm start
 
 
