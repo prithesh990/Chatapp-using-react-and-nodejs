@@ -1,7 +1,7 @@
 # Chatapp-using-react-and-nodejs
 This is the chatapp for one to one or groupchat using react and nodejs
 
-##Screenshots
+<b>Screenshots</b>
 
 
 <img src="./demo/screnshots1.PNG" width="250" height="250">
